@@ -55,7 +55,7 @@ color: white;
     font-size: 14px;
     text-decoration: none solid ;
     border-radius: 10px;
-    display: inline-block;
+    /* display: inline-block; */
     float: right;
     margin-top: 20px;
     margin-right: 20px;
@@ -72,8 +72,6 @@ img:hover{
     cursor: pointer;
     transform: scale(1.05);
 }
-  
-  
   
   
   
