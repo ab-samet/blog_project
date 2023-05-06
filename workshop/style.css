@@ -65,10 +65,13 @@ text-decoration: none;
 color: white;
   }
 .button:hover{
-    padding: 10px;
     font-size: larger;
+    /* padding: 20px; */
 }
-  
+img:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+}
   
   
   
